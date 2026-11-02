@@ -1,0 +1,4 @@
+tabela,E[P],RTP_%,prob_premio_%,dp_teorico_X,saldo_medio,saldo_mediano,n_perdas,n_esgotados,saldo_max
+Base,0.84,84.0,4.0,5.20522814101361,30.5,0.0,85,73,345
+Concentrada,0.84,84.0,0.8,9.353844129554437,51.35,0.0,80,69,755
+Uniforme,0.84,84.0,4.0,4.1151427678757395,32.56,0.0,87,59,188
