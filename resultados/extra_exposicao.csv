@@ -1,5 +1,0 @@
-regra,saldo_final_medio,ganho_%,perda_%,rodadas_medias,perda_por_credito_apostado
-R0: sem limite (500 rod. ou esgotar),46.445,20.7,78.7,339.985,0.15752165536714854
-R1: parar com perda de 20 (saldo<=80),88.265,6.0,94.0,90.975,0.12899148117614728
-R2: parar com ganho de 20 (saldo>=120),79.783,59.3,40.699999999999996,122.107,0.16556790355999246
-R3: R1 e R2 combinadas,96.193,28.7,71.3,23.887,0.1593753924728932
